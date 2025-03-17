@@ -1,0 +1,12 @@
+name: assign07_env
+channels:
+  - conda-forge
+  - https://repo.anaconda.com/pkgs/main
+  - https://repo.anaconda.com/pkgs/r
+  - https://repo.anaconda.com/pkgs/msys2
+dependencies:
+  - jupyterlab
+  - pandas
+  - matplotlib
+  - scikit-learn
+prefix: C:\Users\victo\miniconda3\envs\assign07_env
